@@ -8,5 +8,3 @@ let n = 1;
     console.log(m);
     n ++;
  }
-
- console.log("Hello!");
